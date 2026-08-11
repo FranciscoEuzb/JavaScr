@@ -1,0 +1,3 @@
+Onde eu parei?
+
+https://www.programiz.com/javascript/constructor-function - função constructor 
