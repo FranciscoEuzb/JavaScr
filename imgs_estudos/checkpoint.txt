@@ -1,3 +1,7 @@
 Onde eu parei?
 
-https://www.programiz.com/javascript/constructor-function - função constructor 
+https://www.programiz.com/javascript/library/array
+na verdade não parou aí, só tem que revisar
+
+parou:
+https://www.programiz.com/javascript/getter-setter
