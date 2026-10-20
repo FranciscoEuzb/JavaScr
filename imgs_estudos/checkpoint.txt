@@ -5,3 +5,6 @@ na verdade não parou aí, só tem que revisar
 
 parou:
 https://www.programiz.com/javascript/getter-setter
+
+
+estudar mais objeto e classe, também revisar os tipos de ordenação para as provas;
